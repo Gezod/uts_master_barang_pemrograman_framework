@@ -62,6 +62,7 @@
                                     <p><strong>Jenis Kelamin: </strong> Pria</p>
                                     <p><strong>Jurusan </strong> Sistem Informasi</p>
                                     <p><strong>NIM </strong> 1204220137</p>
+                                    <p><strong>Fakultas </strong> Rekayasa Industri</p>
                                     <p><strong>Alamat Email: </strong> refanggalintar@student.telkomuniversity.ac.id</p>
                                     <p><strong>Motto: </strong> Saya adalah orang yang sangat disiplin dan fokus terhadap hasil kerja hingga cenderung idealis. Namun, saya juga bisa realistis saat menentukan target atau tujuan dan selalu berupaya keras untuk bisa mencapai tujuan tersebut dengan cara yang baik dan efisien</p>
                                 </div>
